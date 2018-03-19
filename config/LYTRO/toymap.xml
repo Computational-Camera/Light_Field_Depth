@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<DATA_H5>                 ./in/LYTRO/toymap.png</DATA_H5>  
+<DEPTH_H5>                ./out/LYTRO/toymap/disparity.h5</DEPTH_H5>
+<CVIEW>                   ./out/LYTRO/toymap/center_view.png</CVIEW>  
+<DEPTH_IMG>               ./out/LYTRO/toymap/depth.png</DEPTH_IMG>  
+<DEPTH_IMG_FILTER>        ./out/LYTRO/toymap/depth_filter.png</DEPTH_IMG_FILTER>  
+<ERROR_IMG>               ./out/LYTRO/toymap/erro_map.png</ERROR_IMG>
+<NUM_LABELS>32</NUM_LABELS>   
+<CONFIDENCE>0</CONFIDENCE> 
+<DATASET>1</DATASET> 
+<DMAX>1</DMAX>  
+<DMIN>-1</DMIN>   
+<MASK>0</MASK> 
+<LAMBDA>0.01</LAMBDA> 
+<THRESHOLD>4</THRESHOLD>       
+<WW>640</WW> 
+<HH>640</HH>     
+<AA>9</AA>   
+</opencv_storage>
+
+
